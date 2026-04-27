@@ -91,7 +91,8 @@ The following models were used and compared:
 
 ## 📷 Sample Output
 
-(Add screenshots of your output here if possible)
+<img width="870" height="690" alt="image" src="https://github.com/user-attachments/assets/c0aee24b-fbc2-43d6-84b7-b514e575435a" />
+
 
 ---
 
@@ -103,7 +104,7 @@ This project is for educational purposes only and should not be used for real me
 
 ## 👨‍💻 Author
 
-**Your Name**
+**Ankit Arora**
 B.Tech CSE (CSBS) Student
 
 ---
